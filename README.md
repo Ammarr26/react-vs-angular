@@ -1,4 +1,4 @@
-# Frameworks
+# Frontend Frameworks
 
 ## Project setup
 ```
