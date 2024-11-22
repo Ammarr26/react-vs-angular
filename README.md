@@ -1,4 +1,4 @@
-# frontendd
+# Frameworks
 
 ## Project setup
 ```
